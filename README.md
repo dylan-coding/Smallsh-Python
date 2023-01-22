@@ -32,6 +32,11 @@ following command:
 python3 Smallsh.py
 ```
 
+To terminate Smallsh.py, input the following command:
+```
+exit
+```
+
 ## Version History
 
 * 0.1
